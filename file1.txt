@@ -4,3 +4,4 @@ this line written also in first branch
 
 this is feature2
 this is feature3
+this is feature3git add .
