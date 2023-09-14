@@ -3,3 +3,8 @@ this line written also in first branch
 
 this line represent feature1
 this line represent feature1
+
+this is feature2
+this is feature3
+this is feature3gi
+
